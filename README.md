@@ -1,2 +1,9 @@
-# hacker_rank_java
-Soluções de exercícios do site Hacker Rank em Java.
+# HACKER RANK SOLUTIONS
+
+Solutions to problems contained on the hacker rank website
+
+## Java
+
+|                                                          Challenge                                                         | Points |
+|:--------------------------------------------------------------------------------------------------------------------------:|:------:|
+| Say "Hello, World!" With Java                                                                                              |    3   |
