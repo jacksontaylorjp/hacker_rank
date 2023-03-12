@@ -12,4 +12,5 @@ Solutions to problems contained on the hacker rank website
 | Java Output Formatting	                                                                                       	     |    10  |
 | Java Loops I			                                                                                       	     |    10  |
 | Java If-Else			                                                                                       	     |    10  |
+| Java Datatypes			                                                                                       	     |    10  |
 
